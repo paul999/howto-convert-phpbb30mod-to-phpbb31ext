@@ -65,7 +65,7 @@ In the [c]require[/c] section you can also specify other extensions which are re
 		}
 	],
 	"require": {
-		"php": ">=5.3",
+		"php": ">=5.3"
 	},
 	"extra": {
 		"display-name": "phpBB 3.1 NV Newspage Extension",
